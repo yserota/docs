@@ -10,9 +10,6 @@ inputs:
 - name: version
   optional: true
 
-caches:
-- path: gopath
-
 outputs:
 - name: built-docs
 
